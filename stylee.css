@@ -1,0 +1,76 @@
+h2 {
+    color:crimson
+}
+
+body{
+    font-size: 20px;
+}
+
+
+p {
+    background-color: hwb(255, 107, 186);
+    font-family: monospace;
+     
+
+}
+
+.cachorros-canção{
+   background-color: rgb(255, 107, 186);
+   font: italic fantasy;
+   line-height: 30px;
+   text-align: center;
+   text-decoration: underline;
+   margin-bottom: 10px;
+   margin-right: 10px;
+}
+
+#cachorros-info-título {
+    background-color: rgb(255, 107, 186);
+    font-weight: bold;
+    width: 250px;
+    height: 350px;
+    overflow: auto;
+    margin: 15px 0px 10px 6px ;
+    border: 2px dashed cornflowerblue;
+    padding: 6px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.dog{
+    color: crimson;
+}
+
+.doguinho{
+     width: 200px;
+     margin-right: 10px;
+     margin-bottom: 10px;
+     border: 6px ridge purple;
+     position: relative;
+     top: 20px;
+     left: 10px;
+}
+
+.doguito{
+    width: 200px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    border: 6px ridge purple;
+    position: relative;
+    top: 20px;
+    left: 10px;
+}
+
+.caixa{
+    width: 380px;
+}
+
+#container{
+    width: 400px;
+    margin: auto;
+    border: 1px solid cornflowerblue;
+    border-top: 10px solid purple ;
+    padding: 15px;
+}
